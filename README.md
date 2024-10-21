@@ -5,8 +5,9 @@ The cookbook is currently a work in progress and will evolve over time to incorp
 * Contacting the authors by email listed in the Contact Information below.
 * By entering in issues via our Github FHIR to OMOP Cookbook repository: https://github.com/CodeX-HL7-FHIR-Accelerator/fhir2omop-cookbook/issues
 * Configuring Github notifications for new updates to the Cookbook.
+<br/>
 
-**Contact Information:**
+### Contact Information
 * May Terry, MITRE - mayT@mitre.org
 * Guy Livne, Kineret – Ministry of Health Israel - guy.livne@moh.gov.il
 * Qi Yang, IQVIA - qi.yang1@iqvia.com 
