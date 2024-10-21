@@ -7,6 +7,8 @@ The cookbook is currently a work in progress and will evolve over time to incorp
 * Configuring Github notifications for new updates to the Cookbook.
 <br/>
 
+![image](https://github.com/CodeX-HL7-FHIR-Accelerator/fhir2omop-cookbook/blob/main/FHIR%20to%20OMOP%20Cookbook%20Poster.png)
+
 ### Contact Information
 * May Terry, MITRE - mayT@mitre.org
 * Guy Livne, Kineret – Ministry of Health Israel - guy.livne@moh.gov.il
